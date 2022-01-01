@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+}
+.desc{
+  font-size: 20px;
+  position: relative;
+  text-align: center;
+}
+.img1{
+  margin: 30px;
+}
+.rounded{
+   width:280px;
+   height:250px;
+}
+.rounded-circle{
+  width:280px;
+  height:250px;
+}
+.img-thumbnail1{
+  width:100px;
+  height:200px;
+}
